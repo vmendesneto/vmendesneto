@@ -2,7 +2,7 @@
 ### OI 👋
 
 
-Sou formado em Gestão Financeira e estou cursando Analise e Desenvolvimento de Sistemas.
+Sou formado em Analise e Desenvolvimento de Sistemas e Gestão Financeira e com pós-graduação em Auditoria, Controladoria e Contabilidade.
 
 
 - 🔭 Atualmente estou aprendendo e desenvolvendo aplicativos na linguagem Dart, framework Flutter.
