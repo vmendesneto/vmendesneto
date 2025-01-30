@@ -5,7 +5,7 @@
 Sou formado em Analise e Desenvolvimento de Sistemas e Gestão Financeira e com pós-graduação em Auditoria, Controladoria e Contabilidade.
 
 
-- 🔭 Atualmente trabalho em projetos React-Native e desenvolvendo aplicativos na linguagem Dart, framework Flutter.
+- 🔭 Atualmente trabalho na Austhen no desenvolvimento de aplicativos em Typescript e Framework React-Native.
 
 
 
